@@ -28,9 +28,6 @@ I welcome any opportunity to connect with others who share an interest in these 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
-![HTML](https://img.shields.io/badge/HTML-F80000?logo=html5&logoColor=white&style=flat-square)
-![HTML](https://img.shields.io/badge/HTML-F80000?logo=html5&logoColor=white&style=flat-square)
-
 
 ### Technologies & Frameworks
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
